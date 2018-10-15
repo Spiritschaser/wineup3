@@ -1,2 +1,14 @@
 eclipse.preferences.version=1
 encoding//server/__init__.py=utf-8
+encoding//server/app/__init__.py=utf-8
+encoding//server/app/api.py=utf-8
+encoding//server/app/auth.py=utf-8
+encoding//server/app/forms.py=utf-8
+encoding//server/app/models.py=utf-8
+encoding//server/app/serializers.py=utf-8
+encoding//server/app/views.py=utf-8
+encoding//server/config.py=utf-8
+encoding//server/frontend/__init__.py=utf-8
+encoding//server/frontend/templates/s/i.jade=UTF-8
+encoding//server/myprint.py=utf-8
+encoding/run.py=utf-8
